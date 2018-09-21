@@ -1,7 +1,7 @@
 # utl_AI_closest_point_from_a_point_to_a_polygon
 AI closest point from a point to a polygon. Keywords: sas sql join merge big data analytics macros oracle teradata mysql sas communities stackoverflow statistics artificial inteligence AI Python R Java Javascript WPS Matlab SPSS Scala Perl C C# Excel MS Access JSON graphics maps NLP natural language processing machine learning igraph DOSUBL DOW loop stackoverflow SAS community.
 
-    AI closest point from a point to a polygon
+    AI_minimum_distance_from_a_poin_to_a_polygon
 
     Python is the best platform for this problem?
     You can do it in IML/R but Python is preferred?
